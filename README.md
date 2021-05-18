@@ -1,4 +1,6 @@
 # IP_Project_Movement-Detection
+UTCN - Anul 3, Calculatoare
+
 Movement detection from a gray-scale images sequence by computing the optical flow.
 
 git clone https://github.com/SamuelAierizer/IP_Project_Movement-Detection.git
